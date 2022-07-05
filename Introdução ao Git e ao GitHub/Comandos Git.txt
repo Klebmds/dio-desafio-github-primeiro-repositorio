@@ -1,0 +1,23 @@
+Comandos Git:
+
+Retorna um nível "cd .."
+Entra na pasta "cd mais o nome da pasta"
+Entra no diretório C "cd /"
+Limpa a tela e não apaga arquivos "Ctrl l"
+Cria uma pasta "mkdir mais o nome da pasta"
+Deleta diretórios pastas ou arquivos "del" ou "rmdir"
+Lista pastas e arquivos "ls"
+Iniciar repositório do Git "git init"
+Mover arquivos e dar direcionamento "git add"
+Criar um commit "git commit"
+Puxar conteúdo do Git Hub "git pull origin master"
+Empurrar conteúdo para o Git Hub "git push origin master"
+Adicionar arquivos para o Git "git add ." ou "git add -a"
+Adicionar arquivos para área Staged "git add *"
+Commitar resolvendo conflitos "git commit -m" "resolve conflitos"
+Clonar repositório do Python, clica em code, copia o link, digita "git clone" e cola URL copiada.
+Mostrar repositórios ou pastas ocultas "ls -a"
+Mosta repositórios remotos "git remote -v"
+Mostra o status atual do arquivo "git status"
+Mover arquivo "mv" mais o nome do arquivo
+
